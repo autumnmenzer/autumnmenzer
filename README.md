@@ -1,5 +1,4 @@
-## Hi there, my name is Autumn
-<h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/autumn-menzer-1943b3381/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Autumn, an <a href="https://www.linkedin.com/in/autumn-menzer-1943b3381/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
